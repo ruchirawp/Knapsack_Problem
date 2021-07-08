@@ -1,2 +1,2 @@
-Name: Ruchira Perera
-Student #: 8714992
+Knapsack Problem solution in java. Includes a dynamic solution and brute force solution. 
+
